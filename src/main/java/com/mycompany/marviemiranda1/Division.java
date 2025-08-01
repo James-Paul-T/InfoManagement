@@ -147,6 +147,7 @@ public class Division extends javax.swing.JFrame {
         // TODO add your handling code here:
         int x = Integer.parseInt( txtnum1.getText());
         int y = Integer.parseInt( txtnum2.getText());
+        
 
         int quot = x / y;
 
