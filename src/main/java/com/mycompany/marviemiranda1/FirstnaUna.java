@@ -52,16 +52,16 @@ public class FirstnaUna extends javax.swing.JFrame {
         getContentPane().add(jButton1, new org.netbeans.lib.awtextra.AbsoluteConstraints(60, 90, -1, -1));
         getContentPane().add(txt1, new org.netbeans.lib.awtextra.AbsoluteConstraints(30, 40, 140, -1));
 
-        jLabel1.setText("jLabel1");
+        jLabel1.setText("1st Quarter");
         getContentPane().add(jLabel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(300, 20, -1, -1));
 
-        jLabel2.setText("jLabel2");
+        jLabel2.setText("2nd Quarter");
         getContentPane().add(jLabel2, new org.netbeans.lib.awtextra.AbsoluteConstraints(300, 50, -1, -1));
 
-        jLabel3.setText("jLabel3");
+        jLabel3.setText("3rd Quarter");
         getContentPane().add(jLabel3, new org.netbeans.lib.awtextra.AbsoluteConstraints(300, 80, -1, -1));
 
-        jLabel4.setText("jLabel4");
+        jLabel4.setText("4th Quarter");
         getContentPane().add(jLabel4, new org.netbeans.lib.awtextra.AbsoluteConstraints(300, 110, -1, -1));
 
         btnave.setText("AVERAGE");
