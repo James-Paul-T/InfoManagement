@@ -199,6 +199,7 @@ public class Cafeteria extends javax.swing.JFrame {
                 txtprodname.setText("Piatot");
                 txtprice.setText("15");
                 txttype.setText("Snack");
+                txtconquan.setText("" +  txtconquan);
                 
             }
             else if (choice == 2){
